@@ -27,7 +27,7 @@ Deployed link:
 ​
 Landing page 
 ​
-![Image](assets/landingpage.png)
+![Image](Images/digital-marketing-meeting.jpg)
 ​
 ## Technologies
 ​
