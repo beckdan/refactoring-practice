@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("C:\Users\danja\Beck_Homework-1\digital-marketing-meeting.jpg");
+    background-image: url("./Images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -86,16 +86,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -132,16 +124,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.digital-media-marketing img {
-    float: center;
-    height: 800px;
-    width: 1065px;
-    position: relative;
-    bottom: 825px;
-    padding: 0;
-    margin: 0; 
 }
 
 .search-engine-optimization {
