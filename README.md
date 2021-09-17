@@ -18,10 +18,9 @@
 General description here
 ​
 This project utilizes a full MERN stack in order to CRUD data and display it realtime on visualizations. 
-- Technology1
-- Technology2
-- Technology3
-- Technology4
+- HTML
+- CSS
+
 ​
 Deployed link: 
 ​
@@ -33,20 +32,8 @@ Landing page
 ​
 Project is created with:
 ​
-- [React](https://reactjs.org/)
-- [React-Router](https://reacttraining.com/react-router/)
-- [React-Redux](https://react-redux.js.org/)
-- [Passport.js](http://www.passportjs.org/)
-- [Material-UI](https://material-ui.com/)
-- [JavaScript](https://www.javascript.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDb](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [Socket.io](https://socket.io/)
-- [Bcrypt.js](https://www.npmjs.com/package/bcrypt)
-- [React-Chartjs-2](https://github.com/jerairrest/react-chartjs-2)
+- [HTML]
+- [CSS]
 ​
 ## Containers
 ​
@@ -83,8 +70,7 @@ Download the repository
 ​
 ## Authors
 ​
-- John Doe
-- Jane Doe
+- Daniel Beck
 ​
 ## License
 ​
