@@ -24,7 +24,7 @@ This project utilizes:
 - CSS
 
 ​
-Deployed link:  
+Deployed link: https://beckdan.github.io/refactoring-practice/
 ​
 Landing page 
 ​
