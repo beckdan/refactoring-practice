@@ -1,28 +1,30 @@
 # MAIN TITLE
+
+Horiseon Homepage
+
 # SECONDARY TITLE
+
+Horiseon
 ​
 ## Table of contents
 ​
 - [General info](#General-Info)
 - [Technologies](#Technologies)
-- [Containers](#Containers)
 - [Deployment](#Deployment)
 - [Code Overview](#Code-Overview)
 - [Summary](#Summary)
-- [CSS style](#CSS-style)
-- [Routing Explained](#Routing-Explained)
-​
 ​
 ## General-Info
 ​
-General description here
+This project refactors a web page for a merketing agency to 
+follow accessibility standards and for search engined optimization
 ​
-This project utilizes a full MERN stack in order to CRUD data and display it realtime on visualizations. 
+This project utilizes:
 - HTML
 - CSS
 
 ​
-Deployed link: 
+Deployed link:  
 ​
 Landing page 
 ​
@@ -34,10 +36,6 @@ Project is created with:
 ​
 - [HTML]
 - [CSS]
-​
-## Containers
-​
-![Image](assets/containers.png)
 ​
 ## Deployment
 ​
@@ -60,13 +58,6 @@ Download the repository
 ## CSS style
 ​
 - This part we explain the CSS style 
-​
-​
-## Routing-Explained
-​
-- Routing 
-​
-![Image](assets/routing.png)
 ​
 ## Authors
 ​
